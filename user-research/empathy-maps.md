@@ -5,7 +5,8 @@
 - Feels: Comfort shopping online
 
 ## Seller
-- Thinks: “I need to reach more people”
+- Thinks: “I need to reach more people.”
 - Feels: Frustrated with logistics
-![buyer](assets/empathy map - buyer.png)
-![seller](assets/empathy map - seller.png)
+![buyer](assets/empathymap-buyer.png)
+![seller](assets/empathymap-seller.png)
+![Bazaar App](assets/bazaar.png)
