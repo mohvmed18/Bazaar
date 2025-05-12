@@ -8,4 +8,4 @@
 - Thinks: “I need to reach more people.”
 - Feels: Frustrated with logistics
 
-![buyer](assets/empathymap-buyer.png)
+![buyer](Bazaar/assets/empathymap-buyer.png)
