@@ -7,3 +7,5 @@
 ## Seller
 - Thinks: “I need to reach more people”
 - Feels: Frustrated with logistics
+![buyer](assets/empathy map - buyer.png)
+![seller](assets/empathy map - seller.png)
