@@ -7,3 +7,4 @@
 
 ## Insights
 - Sellers want exposure and help with logistics.
+![interviews](https://github.com/mohvmed18/Bazaar/blob/6bd3706b955106c79a2ea86985080cde15b27f37/assets/Interviews.png)
