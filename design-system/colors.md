@@ -51,3 +51,4 @@
 | 40    | #FBBF24 |
 | 50    | #F59E0B |
 | 60    | #D97706 |
+![Color palette](https://github.com/mohvmed18/Bazaar/blob/7db1926a2cd8543cdf4091af524a80d849b3e035/assets/color%20palette.png)
