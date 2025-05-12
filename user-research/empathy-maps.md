@@ -7,4 +7,4 @@
 ## Seller
 - Thinks: “I need to reach more people.”
 - Feels: Frustrated with logistics
-![Bazaar App](assets/bazaar.png)
+![Bazaar-App](assets/bazaar.png)
